@@ -1,0 +1,29 @@
+header{
+    padding: 60px;
+    text-align: center;
+    background-image: url("../img/Concesio\ fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header h1{
+    font-size: 30px;
+    margin: 0 0 20px;
+
+}
+
+header p{
+    margin: 0 0 10px;
+    
+}
+
+header div{
+    background-color: rgba(18, 86, 103, 0.555);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    word-wrap: break-word;
+    max-width: 90%;
+    margin: 0 auto;
+}
